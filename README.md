@@ -18,8 +18,8 @@ A simple Iot project that monitors the environment around the plant using sensor
 
 ## Overview
 
-A beginner-to-intermediate IoT project demonstrating real hardware, production-style code layout, and cloud telemetry. Intended for portfolio use: clear README, wiring diagrams, code comments, and a short demo video make this attractive to recruiters.
-
+Smart Plant Monitoring System (Simulation Prototype)
+Developed an IoT-based plant monitoring system using an ESP32 microcontroller to measure and track environmental parameters. Simulated sensor readings (soil moisture, temperature, humidity, and light) without a live plant or water pump. Implemented automation logic where low moisture levels triggered a virtual “watering” indicator (LED). Data was sent to a cloud dashboard via MQTT, enabling real-time visualization and historical trend analysis. This prototype demonstrates sensor data acquisition, IoT communication, and automation logic without requiring full physical deployment.
 ## Features
 
 * Multi-sensor monitoring: temperature, humidity, soil moisture
